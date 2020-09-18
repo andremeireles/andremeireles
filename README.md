@@ -1,16 +1,34 @@
-### Hi there 👋
+<p align="center">
+  <br>
+  <br>
+  <br>
+  <samp>Olá. Eu sou o <a href="https://andremeireles.tk" rel="noopener noreferrer">André</a>.<br> <a href="https://www.flickr.com/photos/andre_meireles" rel="noopener noreferrer">Ilustrador 3D</a>, estudante de Arquitetura e aspirante a programador.<br><br>#ruby, #python, #processing, #3d_modelling
+  </samp>
+  <br>
+  <br>
+  <img src="https://github.com/andremeireles/andremeireles/blob/master/preview.gif" width="380" />
+  <br>
+  <br>
+</p>
 
-<!--
-**andremeireles/andremeireles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details align="center">
 
-Here are some ideas to get you started:
+<summary> <b> <samp> Mais sobre mim </samp></b></summary>
+<samp>
+ <br>
+ <br>
+Projeto recente: <a href="https://github.com/andremeireles/ShortcutMapper" rel="noopener noreferrer">ShortcutMapper.</a> Colaborei adicionando atalhos do programa SketchUp.
+ <br>
+ <br>
+<i align="left">
+  
+- 🔭 Disponível para trabalhos
+- 🌱 Estudando python, react-native
+- ⚡ Curiosidade: Gosto de usar i3wm-gaps no Manjaro.
+- 💬 Pergunte-me sobre modelagem 3d, renderização, edição de fotografias e programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[//]: # "📫 Quer conversar? Entre em contato"
+
+</i>
+</samp>
+</details>
