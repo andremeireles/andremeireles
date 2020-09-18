@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Olá. Eu sou o <a href="https://andremeireles.tk" rel="noopener noreferrer">André</a>.<br> <a href="https://www.flickr.com/photos/andre_meireles" rel="noopener noreferrer">Ilustrador 3D</a>, estudante de Arquitetura e aspirante a programador.<br><br>#ruby, #python, #processing, #3d_modelling
+  <samp>Olá. Eu sou o <a href="https://andremeireles.tk" target="_blank" rel="noopener noreferrer">André</a>.<br> <a href="https://www.flickr.com/photos/andre_meireles" target="_blank" rel="noopener noreferrer">Ilustrador 3D</a>, estudante de Arquitetura e aspirante a programador.<br><br>#ruby, #python, #processing, #3d_modelling
   </samp>
   <br>
   <br>
@@ -17,7 +17,7 @@
 <samp>
  <br>
  <br>
-Projeto recente: <a href="https://github.com/andremeireles/ShortcutMapper" rel="noopener noreferrer">ShortcutMapper.</a> Colaborei adicionando atalhos do programa SketchUp.
+Projeto recente: <a href="https://github.com/andremeireles/ShortcutMapper" target="_blank" rel="noopener noreferrer">ShortcutMapper.</a> Colaborei adicionando atalhos do programa SketchUp.
  <br>
  <br>
 <i align="left">
