@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Olá. Eu sou o <a href="https://andremeireles.tk" target="_blank" rel="noopener noreferrer">André</a>.<br> <a href="https://www.flickr.com/photos/andre_meireles" target="_blank" rel="noopener noreferrer">Ilustrador 3D</a>, estudante de Arquitetura e aspirante a programador.<br><br>#ruby, #python, #processing, #3d_modelling
+  <samp>Olá. Eu sou o <a href="https://andre-meireles.tk" target="_blank" rel="noopener noreferrer">André</a>.<br> <a href="https://www.flickr.com/photos/andre_meireles" target="_blank" rel="noopener noreferrer">Ilustrador 3D</a>, estudante de Arquitetura e aspirante a programador.<br><br>#programming, #3d_modelling, #architecture
   </samp>
   <br>
   <br>
@@ -23,7 +23,7 @@ Projeto recente: <a href="https://github.com/andremeireles/ShortcutMapper" targe
 <i align="left">
   
 - 🔭 Disponível para trabalhos
-- 🌱 Estudando python, react-native
+- 🌱 Estudando flutter
 - ⚡ Curiosidade: Gosto de usar i3wm-gaps no Manjaro.
 - 💬 Pergunte-me sobre modelagem 3d, renderização, edição de fotografias e programação.
 
