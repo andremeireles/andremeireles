@@ -20,6 +20,12 @@
   </p>
 </p>
 
+<i align="right">
+  
+![](https://komarev.com/ghpvc/?username=andremeireles&color=00B4AB&style=for-the-badge&label=acessos+ao+perfil)
+
+ </i>
+  
 <details align="center">
 
 <summary> <b> <samp> Clique aqui para saber mais </samp></b></summary>
@@ -43,3 +49,5 @@
 </i>
 </samp>
 </details>
+
+![](https://hit.yhype.me/github/profile?user_id=1096931)
