@@ -2,7 +2,7 @@
   <br>
   <br>
   <samp>
-    Olá. Eu sou o <a href="https://andre-meireles.tk" target="_blank" rel="noopener noreferrer">André</a>.
+    Olá. Eu sou o <a href="https://andremeireles.tk" target="_blank" rel="noopener noreferrer">André</a>.
     <br>
      Desenvolvedor dart/flutter, estudante de arquitetura e <a href="https://www.flickr.com/photos/andre_meireles" target="_blank" rel="noopener noreferrer">Ilustrador 3D</a>.
     <br>
