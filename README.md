@@ -4,13 +4,13 @@
   <samp>
     Olá. Eu sou o <a href="https://andremeireles.tk" target="_blank" rel="noopener noreferrer">André</a>.
     <br>
-     Desenvolvedor dart/flutter, estudante de arquitetura e <a href="https://www.flickr.com/photos/andre_meireles" target="_blank" rel="noopener noreferrer">Ilustrador 3D</a>.
+     Desenvolvedor, estudante de arquitetura e <a href="https://www.flickr.com/photos/andre_meireles" target="_blank" rel="noopener noreferrer">Ilustrador 3D</a>.
     <br>
     <br>
   </samp>
 
   <p align="center">
-  <a href="https://github.com/andremeireles/andremeireles"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andremeireles&show_icons=true&hide=stars&include_all_commits=true&count_private=true" alt="André's github stats" /></a>
+  <a href="https://github.com/andremeireles/andremeireles"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andremeireles&hide=stars&show_icons=true&include_all_commits=true&count_private=true" alt="André's github stats" /></a>
     <a href="https://github.com/andremeireles/andremeireles"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremeireles&layout=compact&hide=swift,kotlin,cmake,objective-c,c,C%2B%2B" alt="Top langs" /></a>
     <br>
     <br>
